@@ -294,7 +294,7 @@ export default function App() {
       </AnimatePresence>
 
       <div className="fixed bottom-6 right-6 text-sm opacity-40 z-10 font-handwritten tracking-widest">
-      Made with ❤️ by @j3ryy.css
+      Made with ❤️ by @botadminshere
       </div>
     </div>
   );
